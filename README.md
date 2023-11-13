@@ -90,4 +90,8 @@
 
 ---
 
-<img src="./assets/i_want_to_believe.jpg" height="200px">
+<img src="./assets/walking_walkman.gif" width="20%">
+<img src="./assets/walking_walkman.gif" width="20%">
+<img src="./assets/walking_walkman.gif" width="20%">
+<img src="./assets/walking_walkman.gif" width="20%">
+<img src="./assets/walking_walkman.gif" width="20%">
