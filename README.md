@@ -90,8 +90,10 @@
 
 ---
 
-<img src="./assets/walking_walkman.gif" width="20%">
-<img src="./assets/walking_walkman.gif" width="20%">
-<img src="./assets/walking_walkman.gif" width="20%">
-<img src="./assets/walking_walkman.gif" width="20%">
-<img src="./assets/walking_walkman.gif" width="20%">
+<span>
+  <img src="./assets/walking_walkman.gif" width="20%">
+  <img src="./assets/walking_walkman.gif" width="20%">
+  <img src="./assets/walking_walkman.gif" width="20%">
+  <img src="./assets/walking_walkman.gif" width="20%">
+  <img src="./assets/walking_walkman.gif" width="20%">
+</span>
