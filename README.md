@@ -91,9 +91,9 @@
 ---
 
 <span>
-  <img src="./assets/walking_walkman.gif" width="20%">
-  <img src="./assets/walking_walkman.gif" width="20%">
-  <img src="./assets/walking_walkman.gif" width="20%">
-  <img src="./assets/walking_walkman.gif" width="20%">
-  <img src="./assets/walking_walkman.gif" width="20%">
+  <img src="./assets/walking_walkman.gif" width="19%">
+  <img src="./assets/walking_walkman.gif" width="19%">
+  <img src="./assets/walking_walkman.gif" width="19%">
+  <img src="./assets/walking_walkman.gif" width="19%">
+  <img src="./assets/walking_walkman.gif" width="19%">
 </span>
