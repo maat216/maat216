@@ -90,7 +90,7 @@
 
 ---
 
-<span>
+<span style="text-align: center">
   <img src="./assets/walking_walkman.gif" width="19%">
   <img src="./assets/walking_walkman.gif" width="19%">
   <img src="./assets/walking_walkman.gif" width="19%">
