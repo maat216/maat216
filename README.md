@@ -89,6 +89,8 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mark-xviii&theme=solarized-dark)
+---
 
 <span style="display: block; text-align: center">
   <img src="./assets/walking_walkman.gif" width="19%">
