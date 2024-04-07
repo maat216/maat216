@@ -91,6 +91,7 @@
 ---
 
 <span style="display: block; text-align: center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maat216&theme=solarized-light" width="100%">
-  <img src="./assets/i_want_to_believe.jpg" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=maat216&show_icons=true&theme=solarized-light&include_all_commits=true&show=prs_merged_percentage" width="20%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maat216&theme=solarized-light" width="20%">
+  <img src="./assets/i_want_to_believe.jpg" width="15%">
 </span>
