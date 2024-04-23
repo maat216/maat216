@@ -97,8 +97,8 @@
   <img src="./assets/banger.gif" height="256px">
   <img src="./assets/skull.png" height="256px">
   <img src="./assets/thel.jpg" height="256px">
+  <img src="./assets/forest_lake.gif" height="256px">
   <img src="./assets/apple_2.jpg" height="256px">
   <!-- <img src="./assets/ecstasy.webp" height="256px"> -->
-  <img src="./assets/forest_lake.gif" height="256px">
   <img src="./assets/walking_walkman.gif" height="256px">
 </span>
