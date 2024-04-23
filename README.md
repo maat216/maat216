@@ -90,7 +90,7 @@
 
 ---
 
-<span style="display: block; text-align: justify">
+<span style="display: flex; justify-content: space-between">
   <!--- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maat216&theme=solarized-light" width="40%"> --->
   <img src="./assets/i_want_to_believe.jpg" width="30%">
   <img src="./assets/kanagawa_hd_2000_frame.jpg" width="30%">
