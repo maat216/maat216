@@ -90,7 +90,7 @@
 
 ---
 
-<span style="text-align: justify;">
+<span style="display: block; text-align: justify;">
   <!--- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maat216&theme=solarized-light" width="40%"> --->
   <img src="./assets/i_want_to_believe.jpg" height="256px">
   <img src="./assets/kanagawa_hd_2000_frame.jpg" height="256px">
@@ -98,7 +98,7 @@
   <img src="./assets/skull.png" height="256px">
   <img src="./assets/thel.jpg" height="256px">
   <img src="./assets/apple_2.jpg" height="256px">
-  <img src="./assets/ecstasy.webp" height="256px">
+  <!-- <img src="./assets/ecstasy.webp" height="256px"> -->
   <img src="./assets/forest_lake.gif" height="256px">
   <img src="./assets/walking_walkman.gif" height="256px">
 </span>
